@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/r6YVDR9/annie-spratt-h-X-hf2l-Pp-UU-unsplash.jpg",
+    "name": "Snake Plant",
+    "price": 25.99,
+    "rating": 4.7,
+    "description": "The Snake Plant is a hardy, low-maintenance indoor plant.",
+    "specification": "Height: 2-3 feet, Water: Low, Light: Low to bright indirect light",
+    "category": "Natural Plant",
+    "brand": "GreenThumb"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/5GY6hMs/doug-kelley-r-PDuu-BEt-FI8-unsplash.jpg",
+    "name": "Peace Lily",
+    "price": 19.99,
+    "rating": 4.5,
+    "description": "Peace Lily is an elegant plant with white flowers and glossy green leaves.",
+    "specification": "Height: 1-2 feet, Water: Moderate, Light: Low to medium indirect light",
+    "category": "Flower Plant",
+    "brand": "BloomHouse"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/qJjhMw1/linh-le-Ebwp2-6-BG8-E-unsplash.jpg",
+    "name": "Lucky Bamboo",
+    "price": 15.99,
+    "rating": 4.3,
+    "description": "Lucky Bamboo is a symbol of good fortune and is easy to care for.",
+    "specification": "Height: 1-3 feet, Water: High, Light: Indirect light",
+    "category": "Natural Plant",
+    "brand": "FortuneFlora"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/sPd1CHg/han-chenxu-Yd-Aqi-Uk-Uo-WA-unsplash.jpg",
+    "name": "Orchid",
+    "price": 29.99,
+    "rating": 4.8,
+    "description": "Orchids are beautiful and exotic flowers that add elegance to any room.",
+    "specification": "Height: 1-2 feet, Water: Low to moderate, Light: Bright indirect light",
+    "category": "Flower Plant",
+    "brand": "ExoticBlossoms"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/hZxFwdL/arti3.jpg",
+    "name": "Artificial Fern",
+    "price": 12.99,
+    "rating": 4.2,
+    "description": "Artificial Fern is a realistic and maintenance-free decorative plant.",
+    "specification": "Height: 2 feet, Material: Plastic, Light: Any",
+    "category": "Artificial Plant",
+    "brand": "DecorPlants"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/hMfdycq/arti4.jpg",
+    "name": "Artificial Succulent",
+    "price": 9.99,
+    "rating": 4.4,
+    "description": "This artificial succulent looks just like the real thing without the care.",
+    "specification": "Height: 6 inches, Material: Plastic, Light: Any",
+    "category": "Artificial Plant",
+    "brand": "EasyGreen"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/1q8wzMb/ilya-chunin-Bb-Dtg-Yw-Ov9c-unsplash.jpg",
+    "name": "Rose Bouquet",
+    "price": 39.99,
+    "rating": 4.9,
+    "description": "A stunning bouquet of fresh red roses, perfect for special occasions.",
+    "specification": "Height: 12-18 inches, Water: Moderate, Light: Indirect light",
+    "category": "Flower Plant",
+    "brand": "PetalPro"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/ZWYLBcS/kari-shea-tcg-MBs-W4zl-U-unsplash.jpg",
+    "name": "Aloe Vera",
+    "price": 14.99,
+    "rating": 4.6,
+    "description": "Aloe Vera is a succulent plant known for its medicinal properties.",
+    "specification": "Height: 1-2 feet, Water: Low, Light: Bright indirect light",
+    "category": "Natural Plant",
+    "brand": "HealthPlants"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/rpcm9Gs/nagy-arnold-X-Iv-VDu-Hv-DQ-unsplash.jpg",
+    "name": "Ficus Tree",
+    "price": 55.99,
+    "rating": 4.4,
+    "description": "The Ficus Tree is a popular indoor plant with lush green leaves.",
+    "specification": "Height: 4-6 feet, Water: Moderate, Light: Bright indirect light",
+    "category": "Natural Plant",
+    "brand": "LivingGreens"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/X7TmSK9/cactus.png",
+    "name": "Cactus",
+    "price": 10.99,
+    "rating": 4.3,
+    "description": "Cacti are low-maintenance plants that thrive in dry conditions.",
+    "specification": "Height: 6-12 inches, Water: Low, Light: Bright direct light",
+    "category": "Natural Plant",
+    "brand": "DesertBloom"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/RvxRtFD/hangingplant.png",
+    "name": "Hanging Planter",
+    "price": 18.99,
+    "rating": 4.6,
+    "description": "A stylish hanging planter that adds a touch of greenery to any space.",
+    "specification": "Material: Ceramic, Diameter: 8 inches, Height: 6 inches",
+    "category": "Plant Accessories",
+    "brand": "PlantDeco"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/DzZ6NBR/assocaries.jpg",
+    "name": "Wooden Plant Stand",
+    "price": 29.99,
+    "rating": 4.7,
+    "description": "A durable wooden plant stand that elevates your plants off the ground.",
+    "specification": "Material: Wood, Height: 24 inches, Width: 12 inches",
+    "category": "Plant Accessories",
+    "brand": "EcoHome"
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/8xbZnBh/assocaries-3.jpg",
+    "name": "Organic Plant Fertilizer",
+    "price": 14.99,
+    "rating": 4.5,
+    "description": "An all-natural fertilizer to promote healthy plant growth.",
+    "specification": "Weight: 2 lbs, Type: Organic, Use: Indoor/Outdoor plants",
+    "category": "Plant Accessories",
+    "brand": "GrowNaturally"
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/LZM8hH9/waterpot.jpg",
+    "name": "Metal Watering Can",
+    "price": 22.99,
+    "rating": 4.8,
+    "description": "A stylish and functional metal watering can with a long spout.",
+    "specification": "Material: Metal, Capacity: 1 gallon, Color: Green",
+    "category": "Plant Accessories",
+    "brand": "GardenEase"
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/3FJ65DY/assocaris.jpg",
+    "name": "Succulent Pot",
+    "price": 7.99,
+    "rating": 4.6,
+    "description": "A small decorative pot perfect for housing succulents.",
+    "specification": "Material: Ceramic, Diameter: 4 inches, Height: 3 inches",
+    "category": "Plant Accessories",
+    "brand": "MiniGreen"
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/WfcxPJy/toa-heftiba-W1yjvf5idq-A-unsplash.jpg",
+    "name": "Monstera Deliciosa",
+    "price": 49.99,
+    "rating": 4.7,
+    "description": "The Monstera Deliciosa is a trendy indoor plant with large, split leaves.",
+    "specification": "Height: 3-5 feet, Water: Moderate, Light: Bright indirect light",
+    "category": "Natural Plant",
+    "brand": "UrbanJungle"
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/Nn05KMc/artifacial.jpg",
+    "name": "Artificial Ivy Garland",
+    "price": 11.99,
+    "rating": 4.3,
+    "description": "A realistic artificial ivy garland perfect for decorating indoor spaces.",
+    "specification": "Length: 6 feet, Material: Plastic, Light: Any",
+    "category": "Artificial Plant",
+    "brand": "FauxDecor"
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/Gdd9Kv3/olga-mandel-g-K6f8b-KKic0-unsplash.jpg",
+    "name": "Lavender Plant",
+    "price": 16.99,
+    "rating": 4.5,
+    "description": "Lavender is a fragrant herb known for its beautiful purple flowers.",
+    "specification": "Height: 1-2 feet, Water: Low, Light: Full sun",
+    "category": "Flower Plant",
+    "brand": "HerbHaven"
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/k6Crt9T/artufisal2.jpg",
+    "name": "Decorative Flower Pot",
+    "price": 12.99,
+    "rating": 4.6,
+    "description": "A decorative flower pot that adds style to your indoor garden.",
+    "specification": "Material: Ceramic, Diameter: 6 inches, Height: 5 inches",
+    "category": "Plant Accessories",
+    "brand": "DesignPottery"
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/Gc6GZkC/artu5.jpg",
+    "name": "Hydroponic Growing System",
+    "price": 89.99,
+    "rating": 4.8,
+    "description": "A complete hydroponic system for growing plants indoors without soil.",
+    "specification": "Capacity: 12 plants, Material: Plastic, Light: LED grow light included",
+    "category": "Plant Accessories",
+    "brand": "SmartGrow"
+  }
+]
