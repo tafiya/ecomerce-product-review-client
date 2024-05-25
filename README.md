@@ -1,5 +1,6 @@
+# GREENMIND 
+#### E-commerce Product Review Platform
 
-# E-commerce Product Review Platform
 
 The E-commerce Product Review Platform is a comprehensive web application that allows users to browse products, view detailed information, read reviews, and write their own reviews. Designed to resemble a simplified version of popular e-commerce sites, the platform offers a user-friendly interface and robust functionality for an enhanced shopping experience.
 
@@ -17,8 +18,9 @@ The E-commerce Product Review Platform is a comprehensive web application that a
   
 ### Product Detail Page
 - Product Information: Display detailed information about the product, including images (possibly a gallery), description, price, availability, and specifications.
-- Ratings and Reviews: Show the overall rating and distribution of ratings (e.g., how many 5-star, 4-star reviews, etc.). List user reviews with the reviewer's name (or username), date, rating (stars), and review text.
-  
+- Ratings and Reviews: Show the overall rating and distribution of ratings (e.g., how many 5-star, 4-star reviews, etc.). List user reviews with the reviewer's name (or username), rating (stars), and review text.
+- Social Share: Share the product on social media platforms like Facebook.
+ 
 ### Review Submission
 - Write Reviews: Allow logged-in users to write reviews for products. Reviews must include a rating (stars) and can optionally include a text comment.
 
@@ -34,14 +36,14 @@ The E-commerce Product Review Platform is a comprehensive web application that a
 - * Password Security: If custom authentication is used, ensure that passwords are hashed before storing them in the database for security purposes.
 
 ### Frontend (React)
-- React Hooks: Use React hooks such as useState, useEffect, and useContext for managing state within the application.
+- React Hooks: Use React hooks such as useState, useEffect, and useContext to manage the state within the application.
 - Custom Hooks: Create custom hooks for specific functionalities to enhance code reusability and maintainability.
-- State Management: Implement more complex state management if needed, using tools like Context API or Redux to manage the application's state effectively.
+- State Management: Implement more complex state management if needed, using tools like Context API to manage the application's state effectively.
 
 ### Backend (Node.js)
 - Database Integration: Use a database (e.g., MongoDB) to persist product, review, and user data
 - Authentication and Authorization: Implement user authentication and authorization using JWT-based authentication to secure user data and endpoints.
-- API Endpoints: Add endpoints for managing product reviews, including liking/disliking reviews and handling replies.
+- API Endpoints: Add endpoints for managing product reviews.
 
 ## 🛠 Technology:
 * Frontend: HTML, CSS, JavaScript (React.js)
@@ -51,10 +53,10 @@ The E-commerce Product Review Platform is a comprehensive web application that a
 
 
 ## Project Live link
-https://e-commerce-client-69395.web.app/
-- Admin email- pinkey@gmail.com password-Tafiya19039@
+https://ecomerce-product-review.web.app/
+- Admin email- ecomerce@gmail.com  password-Ecomerce1234@
 
 
 
 ## 🔗Server site Github Links
-https://github.com/tafiya/e-commerce-server
+https://github.com/tafiya/ecomerce-product-review-server
